@@ -1,0 +1,4 @@
+gunicorn
+Flask
+line-bot-sdk
+pymongo
